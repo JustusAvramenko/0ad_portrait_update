@@ -1,0 +1,8 @@
+{
+	"name": "0ad_Portraits_Update",
+	"version": "0.0.1",
+	"label": "0 A.D. Portraits Update",
+	"url": "",
+	"description": "A complete overhaul mod for 0 A.D. Empires Ascendant's portrait textures.",
+	"dependencies": ["0ad>=0.0.25"]
+}
